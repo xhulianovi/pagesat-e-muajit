@@ -51,4 +51,4 @@ Aplikacioni u ndërtua me ndihmën e **Claude (Anthropic)**. Unë përcaktova pr
 
 ---
 
-Ndërtuar nga **Xhulia Novi**
+© 2026 **Xhulia**. Të gjitha të drejtat të rezervuara. Kodi është publikuar vetëm si portofol; shiko [LICENSE](LICENSE).
