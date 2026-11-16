@@ -6,13 +6,15 @@ Aplikacion web për menaxhimin e pagesave mujore të një biznesi të vogël: dr
 
 > ⚠️ Ky është **version demo**. Të gjithë emrat, numrat e kontratave dhe shumat janë fiktive.
 
+🔗 **Demo online: https://xhulianovi.github.io/pagesat-e-muajit/**
+
 ---
 
 ## 📸 Pamje
 
 | Plani i muajit | Raporti vjetor |
 |---|---|
-| ![Plani](screenshots/plan.png) | ![Raporti](screenshots/report.png) |
+| ![Plani](pagesat-demo/screenshots/plan.png) | ![Raporti](pagesat-demo/screenshots/report.png) |
 
 ## ✨ Çfarë bën
 
@@ -35,9 +37,7 @@ Versioni që përdor vetë sinkronizon të dhënat në cloud, që të shihen nj�
 
 ## 🚀 Si ta nisësh
 
-Nuk ka nevojë për instalim. Shkarko `index.html` dhe hape në shfletues.
-
-Ose shiko demon online: **[link i GitHub Pages]**
+Nuk ka nevojë për instalim. Shkarko `index.html` dhe hape në shfletues, ose shiko demon online: https://xhulianovi.github.io/pagesat-e-muajit/
 
 ## 🤖 Si u ndërtua
 
@@ -51,4 +51,4 @@ Aplikacioni u ndërtua me ndihmën e **Claude (Anthropic)**. Unë përcaktova pr
 
 ---
 
-Ndërtuar nga **[Emri yt]** · [LinkedIn](https://linkedin.com/in/...)
+Ndërtuar nga **Xhulia Novi**
